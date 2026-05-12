@@ -6,7 +6,7 @@ These native modules were compiled on IBM POWER8 S824 (ppc64le) to enable the fu
 ## Modules Built
 
 ### 1. lightningcss (v1.28.2)
-- **Source**: https://github.com/nicira/lightningcss
+- **Source**: https://github.com/parcel-bundler/lightningcss
 - **Binary**: lightningcss.linux-ppc64-gnu.node (10.7MB)
 - **Build time**: ~6 minutes
 - **Purpose**: CSS parsing, minification, and transformation

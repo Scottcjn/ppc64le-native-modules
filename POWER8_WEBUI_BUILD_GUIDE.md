@@ -53,7 +53,7 @@ nvm use 20
 ### Step 1: Build lightningcss
 
 ```bash
-git clone --depth 1 https://github.com/nicira/lightningcss.git ~/lightningcss-build
+git clone --depth 1 https://github.com/parcel-bundler/lightningcss.git ~/lightningcss-build
 cd ~/lightningcss-build
 cargo build --release -p lightningcss_node
 ```
